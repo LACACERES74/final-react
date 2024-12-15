@@ -1,0 +1,27 @@
+/* src/components/Footer/Footer.css */
+.footer {
+    background-color: #333; /* Color de fondo oscuro */
+    color: white; /* Texto blanco */
+    text-align: center; /* Centrar el texto */
+    padding: 20px; /* Espaciado interior */
+    font-size: 0.9rem; /* Tamaño de fuente moderado */
+    margin-top: 20px; /* Espaciado superior */
+  }
+  
+  .footer p {
+    margin: 5px 0; /* Espaciado entre los párrafos */
+  }
+  
+  .footer strong {
+    font-size: 1.1rem; /* Aumentar el tamaño del texto en negrita */
+  }
+  
+  .footer a {
+    color: #ffd700; /* Color dorado para los enlaces */
+    text-decoration: none; /* Quitar el subrayado */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Subrayar cuando se pasa el ratón por encima */
+  }
+  

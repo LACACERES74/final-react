@@ -1,0 +1,13 @@
+/* src/components/common/ProductList.css */
+
+
+  
+  .spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Esto asegura que el spinner esté centrado en toda la pantalla */
+  }
+  
+
+  
